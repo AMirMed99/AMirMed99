@@ -18,11 +18,6 @@ Copy this (it should be fully visible now):
 ![NodeJS](https://img.shields.io/badge/NodeJS-green)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-lightgrey)
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-yellow)
-![Git](https://img.shields.io/badge/Git-orange)
-![Microservices](https://img.shields.io/badge/Microservices-blue)
-![Docker](https://img.shields.io/badge/Docker-blue)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
